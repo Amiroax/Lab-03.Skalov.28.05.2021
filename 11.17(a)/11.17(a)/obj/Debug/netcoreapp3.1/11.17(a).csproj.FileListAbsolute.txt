@@ -1,0 +1,13 @@
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\bin\Debug\netcoreapp3.1\11.17(a).exe
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\bin\Debug\netcoreapp3.1\11.17(a).deps.json
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\bin\Debug\netcoreapp3.1\11.17(a).runtimeconfig.json
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\bin\Debug\netcoreapp3.1\11.17(a).runtimeconfig.dev.json
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\bin\Debug\netcoreapp3.1\11.17(a).dll
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\bin\Debug\netcoreapp3.1\11.17(a).pdb
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\obj\Debug\netcoreapp3.1\11.17(a).csprojAssemblyReference.cache
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\obj\Debug\netcoreapp3.1\11.17(a).AssemblyInfoInputs.cache
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\obj\Debug\netcoreapp3.1\11.17(a).AssemblyInfo.cs
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\obj\Debug\netcoreapp3.1\11.17(a).csproj.CoreCompileInputs.cache
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\obj\Debug\netcoreapp3.1\11.17(a).dll
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\obj\Debug\netcoreapp3.1\11.17(a).pdb
+C:\Users\niksk\source\repos\11.17(a)\11.17(a)\obj\Debug\netcoreapp3.1\11.17(a).genruntimeconfig.cache
